@@ -3,4 +3,4 @@ The purpose of this project, by the means of Deep Learning, is to study the perf
 
 **Model Performance:**
 
-![This is an image](https://github.com/Sanskar02/OPTION_PRICING_MODEL/blob/a1533ae8874c0032f047307e0d0b095e54e25f66/Prediction%20vs%20Actual%20Price.png)
+![This is an image](https://github.com/Sanskar02/OPTION_PRICING_MODEL/blob/f7565aa97c20804abb4197713bd2bee22431c40a/PREDICTION_VS_ACTUAL_PRICE.png)
