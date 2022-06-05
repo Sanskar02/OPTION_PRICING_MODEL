@@ -7,12 +7,12 @@ blackScholes(s, k, t, q, v, r)
 
 **Model has various parameters that user needs to import:**
 
-s - Current price of the underlying
-k - Strike price
-t - Time to expiration in years
-q  - Dividend gain
-v - Volatility as a decimal
-r - Annual risk-free interest rate as a decimal
+- s - Current price of the underlying
+- k - Strike price
+- t - Time to expiration in years
+- q  - Dividend gain
+- v - Volatility as a decimal
+- r - Annual risk-free interest rate as a decimal
 
 
 
