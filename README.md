@@ -1,6 +1,5 @@
 # OPTION_PRICING_MODEL
-The purpose of this project, by the means of Deep Learning, is to study the performance of the deep learning model on pricing options using inputs to the popular Black-Scholes model. Artificial Neural Networks (ANNs), we will be able to feed complex and sophisticated financial datasets for training. In the end, we had compare our model to the traditional model of option pricing and see how much our model outperformed, and conclude if one can use the Deep Learning model for pricing options.
-
+Developed an ANN model that can imitate and generate the same outcomes as the famous Black Scholes model for option pricing.
 
 Option pricing using the Black-Scholes formula.
 blackScholes(s, k, t, q, v, r)
